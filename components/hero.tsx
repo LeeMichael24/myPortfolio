@@ -9,7 +9,7 @@ export default function Hero() {
         <h2 className="text-2xl md:text-3xl text-foreground/70 mb-3">Computer Engineer</h2>
         <h3 className="text-xl md:text-2xl text-foreground/60 mb-8">Full Stack Developer</h3>
         <p className="text-lg md:text-xl text-foreground/70 mb-10 max-w-2xl mx-auto">
-          Building innovative tech solutions with engineering expertise in React, Node.js, and cloud technologies.
+          Building innovative tech solutions with engineering expertise in React | Next | Node.js | Java | Python | and cloud technologies.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Button asChild size="lg" className="px-8">

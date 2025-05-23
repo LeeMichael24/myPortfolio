@@ -6,12 +6,12 @@ export default function Education() {
   const education = [
     {
       institution: "Centro Cultural Salvadoreño Americano",
-      period: "2021 - Present",
+      period: "2018 - 2020",
       degree: "English Language Studies",
     },
     {
       institution: "Universidad José Simeón Cañas - UCA",
-      period: "2018 - 2020",
+      period: "2021 - Present",
       degree: "Computer Engineering",
     },
   ]
